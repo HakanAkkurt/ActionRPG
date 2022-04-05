@@ -1,5 +1,13 @@
 # ActionRPG
-An action RPG game developed with Unreal Engine 4
+An action RPG game developed with Unreal Engine 5
+
+Assets from UE-Marketplace:
+
+- Sun Temple
+- Infinity Blade: Grass Lands
+- Paragon: Minions
+- StarterContent
+
 
 Screenshots:
 
