@@ -1,5 +1,4 @@
-# ActionRPG
-An action RPG game developed with Unreal Engine 5.3
+# ActionRPG developed with Unreal Engine 5.3
 
 Assets from UE-Marketplace:
 
